@@ -1,0 +1,9 @@
+Bildgrößen, Inhalt für danielkoch.de
+1024x768
+800x600
+640x480
+320x240
+
+Dateiformate:
+Fotos: .jpeg
+Grafiken: .png (8 Bit) bevorzugt
