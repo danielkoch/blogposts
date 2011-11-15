@@ -51,7 +51,6 @@
          * @return void
          */
         onBinding: function() {
-			console.log('Running Demo module javascript.');
         },
         
         /**
